@@ -1,0 +1,8 @@
+	•	Voting  
+	◦	No third party 
+	◦	How to verify your identity 
+	◦	Tokenized incentive to vote 
+	◦	Too time consuming to go to poll. Going physically is a hassel (EFFICIENCY) 
+	◦	Feel like vote wont matter eg. in a state like california (TRANSPARENCY) 
+	◦	Too hard to register (SCALABILITY) 
+	◦	You can change your vote 
