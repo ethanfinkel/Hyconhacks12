@@ -12,6 +12,8 @@ message Account {
     // Consensus Critical
     uint64 balance = 1;
     uint32 nonce = 2;
+    unit32 Trump = 0;
+    unit32 Clinton = 0;
 }
 
 message StateNode {
